@@ -1,0 +1,124 @@
+# Referenced at /Users/maverick/Downloads/GulaEats-Cliente-main/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:30
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/maverick/Downloads/GulaEats-Cliente-main/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:152
+-keep class com.google.android.datatransport.runtime.backends.TransportBackendDiscovery { <init>(); }
+# Referenced at /Users/maverick/Downloads/GulaEats-Cliente-main/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:165
+-keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.AlarmManagerSchedulerBroadcastReceiver { <init>(); }
+# Referenced at /Users/maverick/Downloads/GulaEats-Cliente-main/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:159
+-keep class com.google.android.datatransport.runtime.scheduling.jobscheduling.JobInfoSchedulerService { <init>(); }
+# Referenced at /Users/maverick/Downloads/GulaEats-Cliente-main/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:178
+-keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
+# Referenced at /Users/maverick/Downloads/GulaEats-Cliente-main/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:133
+-keep class com.google.android.gms.measurement.AppMeasurementJobService { <init>(); }
+# Referenced at /Users/maverick/Downloads/GulaEats-Cliente-main/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:123
+-keep class com.google.android.gms.measurement.AppMeasurementReceiver { <init>(); }
+# Referenced at /Users/maverick/Downloads/GulaEats-Cliente-main/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:129
+-keep class com.google.android.gms.measurement.AppMeasurementService { <init>(); }
+# Referenced at /Users/maverick/Downloads/GulaEats-Cliente-main/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:77
+-keep class com.google.firebase.components.ComponentDiscoveryService { <init>(); }
+# Referenced at /Users/maverick/Downloads/GulaEats-Cliente-main/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:115
+-keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
+# Referenced at /Users/maverick/Downloads/GulaEats-Cliente-main/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:107
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(); }
+# Referenced at /Users/maverick/Downloads/GulaEats-Cliente-main/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:169
+-keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
+# Referenced at /Users/maverick/Downloads/GulaEats-Cliente-main/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:30
+-keep class com.gulaeats.app.Application { <init>(); }
+# Referenced at /Users/maverick/Downloads/GulaEats-Cliente-main/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:42
+-keep class com.gulaeats.app.MainActivity { <init>(); }
+# Referenced at /Users/maverick/Downloads/GulaEats-Cliente-main/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:143
+-keep class com.pichillilorenzo.flutter_inappbrowser.ChromeCustomTabs.ChromeCustomTabsActivity { <init>(); }
+# Referenced at /Users/maverick/Downloads/GulaEats-Cliente-main/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:139
+-keep class com.pichillilorenzo.flutter_inappbrowser.InAppBrowserActivity { <init>(); }
+# Referenced at /Users/maverick/Downloads/GulaEats-Cliente-main/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:72
+-keep class io.flutter.plugins.firebasemessaging.FlutterFirebaseMessagingService { <init>(); }
+# Referenced at /Users/maverick/Downloads/GulaEats-Cliente-main/build/app/intermediates/merged_manifests/release/AndroidManifest.xml:147
+-keep class io.flutter.plugins.urllauncher.WebViewActivity { <init>(); }
+# Referenced at /Users/maverick/.gradle/caches/transforms-2/files-2.1/463f3fa1194181e7280ed1f1f3a546ce/appcompat-1.0.0/res/layout/abc_alert_dialog_button_bar_material.xml:43
+# Referenced at /Users/maverick/.gradle/caches/transforms-2/files-2.1/463f3fa1194181e7280ed1f1f3a546ce/appcompat-1.0.0/res/layout/abc_alert_dialog_material.xml:52
+# Referenced at /Users/maverick/.gradle/caches/transforms-2/files-2.1/463f3fa1194181e7280ed1f1f3a546ce/appcompat-1.0.0/res/layout/abc_alert_dialog_title_material.xml:56
+-keep class android.widget.Space { <init>(...); }
+
+# Referenced at /Users/maverick/.gradle/caches/transforms-2/files-2.1/463f3fa1194181e7280ed1f1f3a546ce/appcompat-1.0.0/res/layout/abc_select_dialog_material.xml:23
+-keep class androidx.appcompat.app.AlertController$RecycleListView { <init>(...); }
+
+# Referenced at /Users/maverick/.gradle/caches/transforms-2/files-2.1/463f3fa1194181e7280ed1f1f3a546ce/appcompat-1.0.0/res/layout/abc_action_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ActionMenuItemView { <init>(...); }
+
+# Referenced at /Users/maverick/.gradle/caches/transforms-2/files-2.1/463f3fa1194181e7280ed1f1f3a546ce/appcompat-1.0.0/res/layout/abc_expanded_menu_layout.xml:17
+-keep class androidx.appcompat.view.menu.ExpandedMenuView { <init>(...); }
+
+# Referenced at /Users/maverick/.gradle/caches/transforms-2/files-2.1/463f3fa1194181e7280ed1f1f3a546ce/appcompat-1.0.0/res/layout/abc_cascading_menu_item_layout.xml:20
+# Referenced at /Users/maverick/.gradle/caches/transforms-2/files-2.1/463f3fa1194181e7280ed1f1f3a546ce/appcompat-1.0.0/res/layout/abc_list_menu_item_layout.xml:17
+# Referenced at /Users/maverick/.gradle/caches/transforms-2/files-2.1/463f3fa1194181e7280ed1f1f3a546ce/appcompat-1.0.0/res/layout/abc_popup_menu_item_layout.xml:17
+-keep class androidx.appcompat.view.menu.ListMenuItemView { <init>(...); }
+
+# Referenced at /Users/maverick/.gradle/caches/transforms-2/files-2.1/463f3fa1194181e7280ed1f1f3a546ce/appcompat-1.0.0/res/layout/abc_screen_toolbar.xml:27
+-keep class androidx.appcompat.widget.ActionBarContainer { <init>(...); }
+
+# Referenced at /Users/maverick/.gradle/caches/transforms-2/files-2.1/463f3fa1194181e7280ed1f1f3a546ce/appcompat-1.0.0/res/layout/abc_action_mode_bar.xml:19
+# Referenced at /Users/maverick/.gradle/caches/transforms-2/files-2.1/463f3fa1194181e7280ed1f1f3a546ce/appcompat-1.0.0/res/layout/abc_screen_toolbar.xml:43
+-keep class androidx.appcompat.widget.ActionBarContextView { <init>(...); }
+
+# Referenced at /Users/maverick/.gradle/caches/transforms-2/files-2.1/463f3fa1194181e7280ed1f1f3a546ce/appcompat-1.0.0/res/layout/abc_screen_toolbar.xml:17
+-keep class androidx.appcompat.widget.ActionBarOverlayLayout { <init>(...); }
+
+# Referenced at /Users/maverick/.gradle/caches/transforms-2/files-2.1/463f3fa1194181e7280ed1f1f3a546ce/appcompat-1.0.0/res/layout/abc_action_menu_layout.xml:17
+-keep class androidx.appcompat.widget.ActionMenuView { <init>(...); }
+
+# Referenced at /Users/maverick/.gradle/caches/transforms-2/files-2.1/463f3fa1194181e7280ed1f1f3a546ce/appcompat-1.0.0/res/layout/abc_activity_chooser_view.xml:19
+-keep class androidx.appcompat.widget.ActivityChooserView$InnerLayout { <init>(...); }
+
+# Referenced at /Users/maverick/.gradle/caches/transforms-2/files-2.1/463f3fa1194181e7280ed1f1f3a546ce/appcompat-1.0.0/res/layout/abc_alert_dialog_material.xml:18
+-keep class androidx.appcompat.widget.AlertDialogLayout { <init>(...); }
+
+# Referenced at /Users/maverick/.gradle/caches/transforms-2/files-2.1/463f3fa1194181e7280ed1f1f3a546ce/appcompat-1.0.0/res/layout/abc_alert_dialog_button_bar_material.xml:26
+-keep class androidx.appcompat.widget.ButtonBarLayout { <init>(...); }
+
+# Referenced at /Users/maverick/.gradle/caches/transforms-2/files-2.1/463f3fa1194181e7280ed1f1f3a546ce/appcompat-1.0.0/res/layout/abc_screen_content_include.xml:19
+-keep class androidx.appcompat.widget.ContentFrameLayout { <init>(...); }
+
+# Referenced at /Users/maverick/.gradle/caches/transforms-2/files-2.1/463f3fa1194181e7280ed1f1f3a546ce/appcompat-1.0.0/res/layout/abc_alert_dialog_title_material.xml:45
+-keep class androidx.appcompat.widget.DialogTitle { <init>(...); }
+
+# Referenced at /Users/maverick/.gradle/caches/transforms-2/files-2.1/463f3fa1194181e7280ed1f1f3a546ce/appcompat-1.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml:23
+-keep class androidx.appcompat.widget.FitWindowsFrameLayout { <init>(...); }
+
+# Referenced at /Users/maverick/.gradle/caches/transforms-2/files-2.1/463f3fa1194181e7280ed1f1f3a546ce/appcompat-1.0.0/res/layout/abc_dialog_title_material.xml:22
+# Referenced at /Users/maverick/.gradle/caches/transforms-2/files-2.1/463f3fa1194181e7280ed1f1f3a546ce/appcompat-1.0.0/res/layout/abc_screen_simple.xml:17
+-keep class androidx.appcompat.widget.FitWindowsLinearLayout { <init>(...); }
+
+# Referenced at /Users/maverick/.gradle/caches/transforms-2/files-2.1/463f3fa1194181e7280ed1f1f3a546ce/appcompat-1.0.0/res/layout/abc_search_view.xml:75
+-keep class androidx.appcompat.widget.SearchView$SearchAutoComplete { <init>(...); }
+
+# Referenced at /Users/maverick/.gradle/caches/transforms-2/files-2.1/463f3fa1194181e7280ed1f1f3a546ce/appcompat-1.0.0/res/layout/abc_screen_toolbar.xml:36
+-keep class androidx.appcompat.widget.Toolbar { <init>(...); }
+
+# Referenced at /Users/maverick/.gradle/caches/transforms-2/files-2.1/463f3fa1194181e7280ed1f1f3a546ce/appcompat-1.0.0/res/layout/abc_screen_simple.xml:25
+# Referenced at /Users/maverick/.gradle/caches/transforms-2/files-2.1/463f3fa1194181e7280ed1f1f3a546ce/appcompat-1.0.0/res/layout/abc_screen_simple_overlay_action_mode.xml:32
+-keep class androidx.appcompat.widget.ViewStubCompat { <init>(...); }
+
+# Referenced at /Users/maverick/.gradle/caches/transforms-2/files-2.1/39a27e81d465ff0c6a90cc8054754da1/browser-1.0.0/res/layout/browser_actions_context_menu_page.xml:5
+-keep class androidx.browser.browseractions.BrowserActionsFallbackMenuView { <init>(...); }
+
+# Referenced at /Users/maverick/.gradle/caches/transforms-2/files-2.1/463f3fa1194181e7280ed1f1f3a546ce/appcompat-1.0.0/res/layout/abc_alert_dialog_material.xml:41
+-keep class androidx.core.widget.NestedScrollView { <init>(...); }
+
+# Referenced at /Users/maverick/Downloads/GulaEats-Cliente-main/build/flutter_inappbrowser/intermediates/packaged_res/release/layout/activity_web_view.xml:13
+-keep class com.pichillilorenzo.flutter_inappbrowser.InAppWebView.InAppWebView { <init>(...); }
+
+# Referenced at /Users/maverick/Downloads/GulaEats-Cliente-main/build/flutter_inappbrowser/intermediates/packaged_res/release/menu/menu_main.xml:36
+-keepclassmembers class * { *** closeButtonClicked(android.view.MenuItem); }
+
+# Referenced at /Users/maverick/Downloads/GulaEats-Cliente-main/build/flutter_inappbrowser/intermediates/packaged_res/release/menu/menu_main.xml:8
+-keepclassmembers class * { *** goBackButtonClicked(android.view.MenuItem); }
+
+# Referenced at /Users/maverick/Downloads/GulaEats-Cliente-main/build/flutter_inappbrowser/intermediates/packaged_res/release/menu/menu_main.xml:15
+-keepclassmembers class * { *** goForwardButtonClicked(android.view.MenuItem); }
+
+# Referenced at /Users/maverick/Downloads/GulaEats-Cliente-main/build/flutter_inappbrowser/intermediates/packaged_res/release/menu/menu_main.xml:29
+-keepclassmembers class * { *** reloadButtonClicked(android.view.MenuItem); }
+
+# Referenced at /Users/maverick/Downloads/GulaEats-Cliente-main/build/flutter_inappbrowser/intermediates/packaged_res/release/menu/menu_main.xml:22
+-keepclassmembers class * { *** shareButtonClicked(android.view.MenuItem); }
+

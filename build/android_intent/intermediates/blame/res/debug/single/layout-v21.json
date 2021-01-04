@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/maverick/Downloads/GulaEats-Cliente-main/build/android_intent/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/maverick/.gradle/caches/transforms-2/files-2.1/7b4c54b05abfe32c04b6fb9596cf35c8/core-1.1.0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/maverick/Downloads/GulaEats-Cliente-main/build/android_intent/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/maverick/.gradle/caches/transforms-2/files-2.1/7b4c54b05abfe32c04b6fb9596cf35c8/core-1.1.0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/maverick/Downloads/GulaEats-Cliente-main/build/android_intent/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/maverick/.gradle/caches/transforms-2/files-2.1/7b4c54b05abfe32c04b6fb9596cf35c8/core-1.1.0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/maverick/Downloads/GulaEats-Cliente-main/build/android_intent/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/Users/maverick/.gradle/caches/transforms-2/files-2.1/7b4c54b05abfe32c04b6fb9596cf35c8/core-1.1.0/res/layout-v21/notification_action.xml"
+    }
+]

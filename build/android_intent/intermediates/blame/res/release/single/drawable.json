@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/maverick/Downloads/GulaEats-Cliente-main/build/android_intent/intermediates/res/merged/release/drawable/notification_bg_low.xml",
+        "source": "/Users/maverick/.gradle/caches/transforms-2/files-2.1/7b4c54b05abfe32c04b6fb9596cf35c8/core-1.1.0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/maverick/Downloads/GulaEats-Cliente-main/build/android_intent/intermediates/res/merged/release/drawable/notification_bg.xml",
+        "source": "/Users/maverick/.gradle/caches/transforms-2/files-2.1/7b4c54b05abfe32c04b6fb9596cf35c8/core-1.1.0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/maverick/Downloads/GulaEats-Cliente-main/build/android_intent/intermediates/res/merged/release/drawable/notification_icon_background.xml",
+        "source": "/Users/maverick/.gradle/caches/transforms-2/files-2.1/7b4c54b05abfe32c04b6fb9596cf35c8/core-1.1.0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/maverick/Downloads/GulaEats-Cliente-main/build/android_intent/intermediates/res/merged/release/drawable/notification_tile_bg.xml",
+        "source": "/Users/maverick/.gradle/caches/transforms-2/files-2.1/7b4c54b05abfe32c04b6fb9596cf35c8/core-1.1.0/res/drawable/notification_tile_bg.xml"
+    }
+]

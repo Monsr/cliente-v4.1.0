@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "899779506718",
+    "firebase_url": "https://gulaeats.firebaseio.com",
+    "project_id": "gulaeats",
+    "storage_bucket": "gulaeats.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899779506718:android:f65e94707b54e995a2b40f",
+        "android_client_info": {
+          "package_name": "com.gulaeats.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899779506718-l5c3fok77crvsko1fmi0nd3fe3idipif.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnAZyGV_WmjeBx9iZfhZQlsInWC_Ml92c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "899779506718-l5c3fok77crvsko1fmi0nd3fe3idipif.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
